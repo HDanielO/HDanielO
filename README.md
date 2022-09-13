@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Hameed</h1>
 <h3 align="center">A Young Frontend developer from Lagos, Nigeria.</h3>
 
-URL:https://www.codewars.com/users/HDanielO/badges/large
-
+<img src:"https://www.codewars.com/users/HDanielO/badges/large" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdanielo&label=Profile%20views&color=0e75b6&style=flat" alt="hdanielo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hdanielo" alt="hdanielo" /></a> </p>
