@@ -3,8 +3,6 @@
 
 ![](https://www.codewars.com/users/HDanielO/badges/large)
 
-<p align="left"> <a href="https://twitter.com/HameedDaniel_?t=63PDuu3EIpnEsj5jTlDh6A&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@hameeddaniel_?logo=twitter&style=for-the-badge" alt="@hameeddaniel_" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML CSS**
