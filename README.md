@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Daniel Hameed</h1>
-<h3 align="center">A Young Frontend developer from Lagos, Nigeria.</h3>
+# <samp>Hameed Daniel</samp>
+
+## <samp>Hello World! ✨👾</samp> 
+
+<samp>I'm a young Nigerian  passionate about solving problems with technology and creating different solutions.</samp>
+  
+---  
+-⚡&nbsp;<samp>I love connecting with people and engaging in enlightening convo👨🏿‍💻🤓</samp>
+- ⚽&nbsp;<samp>Passionate about Football #GGMU🔴⚪, Anime🤓 </samp>
+- 📫 How to reach me **hameeddnl@gmail.com**
+---
 
 ![](https://www.codewars.com/users/HDanielO/badges/large)
-
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **HTML CSS**
-
-- 📫 How to reach me **hameeddnl@gmail.com**
-
-- ⚡ Fun fact **Does things the easiest way possible😅😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
