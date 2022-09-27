@@ -4,7 +4,7 @@
 
 <samp>I'm a young Nigerian  passionate about solving problems with technology and creating different solutions.</samp>
   
----  
+
 -⚡&nbsp;<samp>I love connecting with people and engaging in enlightening convo👨🏿‍💻🤓</samp>
 - ⚽&nbsp;<samp>Passionate about Football #GGMU🔴⚪, Anime🤓 </samp>
 - 📫 How to reach me **hameeddnl@gmail.com**
