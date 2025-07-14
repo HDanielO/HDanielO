@@ -38,8 +38,8 @@ I'm Hameed, a passionate software developer who loves solving problems with tech
 
 <p align="left">
   <a href="https://x.com/HameedDaniel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HameedDaniel_ on X" height="30" width="40" /></a>
-  <a href="https://www.frontendmentor.io/profile/HDanielO" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/frontend-mentor-1.svg" alt="Frontend Mentor" height="30" width="40" />
+ <a href="https://www.frontendmentor.io/profile/HDanielO" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/frontendmentor/frontendmentor/master/public/favicon-32x32.png" alt="Frontend Mentor" height="32" width="32" />
   </a>
   <!-- Add LinkedIn or other socials if you want -->
 </p>
@@ -52,7 +52,8 @@ I'm Hameed, a passionate software developer who loves solving problems with tech
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hdanielo&show_icons=true&locale=en&layout=compact" alt="hdanielo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hdanielo&show_icons=true&locale=en" alt="hdanielo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hdanielo&" alt="hdanielo" /></p>
+<!-- The streak stats image below may not always display if the service is down -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hdanielo" alt="hdanielo streak stats" /></p>
 
 ---
 
